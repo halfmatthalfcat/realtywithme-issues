@@ -1,5 +1,4 @@
-# realtywithme-issues
-RealtyWithMe Public Issues Repo
+# RealtyWithMe Public Issues Repo
 
 This Github repository solely exists to facilitate issues found with the RealtyWithMe browser extension.
 
